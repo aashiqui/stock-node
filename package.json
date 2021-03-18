@@ -1,0 +1,16 @@
+{
+  "name": "stock-ticker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juber shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "stocksocket": "^1.2.1",
+    "websocket": "^1.0.33"
+  }
+}
